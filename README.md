@@ -28,3 +28,5 @@ This repository contains the pre-work required for CodePath Cybersecurity Tech F
 <img src='https://github.com/callmead/codepath-tech-fellow/blob/main/images/Challenge%204b.png' title='image' width='' alt='image' />
 
 <img src='https://github.com/callmead/codepath-tech-fellow/blob/main/images/Challenge%204c.png' title='image' width='' alt='image' />
+
+Presentation link: https://docs.google.com/presentation/d/1hOP3OHzPvqZEVKcMk_coX0S46eqylmaZAGG2AwbM9ow/edit?usp=sharing
