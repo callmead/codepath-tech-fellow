@@ -7,6 +7,8 @@ This repository contains the pre-work required for CodePath Cybersecurity Tech F
 
 ## Pre-work
 
+<img src='https://github.com/callmead/codepath-tech-fellow/blob/main/images/New.png' title='image' width='' alt='image' />
+
 <img src='https://github.com/callmead/codepath-tech-fellow/blob/main/images/Challenge%201-2.png' title='image' width='' alt='image' />
 
 <img src='https://github.com/callmead/codepath-tech-fellow/blob/main/images/Challenge%201-2a.png' title='image' width='' alt='image' />
